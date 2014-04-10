@@ -1,0 +1,333 @@
+{"mosaic":{
+
+"1":{"y":"0","x":"0","z":"0","talent":"Devastating_Blow"},
+"2":{"y":"4","x":"3","z":"1","talent":"r_Devastating_Blow"},
+"3":{"y":"0","x":"1","z":"0","talent":"Charge"},
+"4":{"y":"4","x":"3","z":"2","talent":"r_Charge"},
+"5":{"y":"0","x":"2","z":"0","talent":"Agonizing_Strike"},
+"6":{"y":"4","x":"3","z":"3","talent":"r_Agonizing_Strike"},
+"7":{"y":"1","x":"0","z":"0","talent":"Lunge"},
+"8":{"y":"1","x":"2","z":"0","talent":"Shield_Slam"},
+"9":{"y":"1","x":"3","z":"0","talent":"Die_Hard"},
+"10":{"y":"2","x":"1","z":"0","talent":"Forceful_Kick"},
+"11":{"y":"2","x":"2","z":"0","talent":"Intimidate"},
+"12":{"y":"3","x":"0","z":"0","talent":"Arcing_Blow"},
+"13":{"y":"3","x":"1","z":"0","talent":"Hack"},
+"14":{"y":"3","x":"3","z":"0","talent":"Jagged_Slice"},
+"15":{"y":"4","x":"1","z":"0","talent":"Adrenaline_Buzz"},
+"16":{"y":"4","x":"2","z":"0","talent":"Aura_of_Ferocity"},
+"17":{"y":"4","x":"3","z":"0","talent":"Double_Blow"},
+"18":{"y":"5","x":"1","z":"0","talent":"_Vicious_Spin"},
+"19":{"y":"5","x":"2","z":"0","talent":"Headbutt"},
+"20":{"y":"6","x":"0","z":"0","talent":"Flawless_Strike"},
+"21":{"y":"6","x":"3","z":"0","talent":"Rapid_Slash"},
+"22":{"y":"7","x":"1","z":"0","talent":"Whirlwind"},
+"23":{"y":"7","x":"2","z":"0","talent":"Fatal_Blow"},
+"24":{"y":"8","x":"0","z":"0","talent":"Reasoned_Aggression"},
+"25":{"y":"8","x":"3","z":"0","talent":"Heroic_Might"},
+"26":{"y":"0","x":"0","z":"1","talent":"Bloodbath"},
+"27":{"y":"0","x":"1","z":"1","talent":"Bloodbath"},
+"28":{"y":"0","x":"2","z":"1","talent":"Dueler"},
+"29":{"y":"0","x":"3","z":"1","talent":"Dueler"},
+"30":{"y":"0","x":"4","z":"1","talent":"Dueler"},
+"31":{"y":"0","x":"5","z":"1","talent":"Severe_Wounds"},
+"32":{"y":"0","x":"6","z":"1","talent":"Battle_Frenzy"},
+"33":{"y":"1","x":"1","z":"1","talent":"Slaughter"},
+"34":{"y":"1","x":"2","z":"1","talent":"Long_Swing"},
+"35":{"y":"1","x":"3","z":"1","talent":"Long_Swing"},
+"36":{"y":"1","x":"4","z":"1","talent":"Long_Swing"},
+"37":{"y":"1","x":"5","z":"1","talent":"Severe_Wounds"},
+"38":{"y":"1","x":"6","z":"1","talent":"Severe_Wounds"},
+"39":{"y":"2","x":"0","z":"1","talent":"Sign_of_Weakness"},
+"40":{"y":"2","x":"1","z":"1","talent":"Slaughter"},
+"41":{"y":"2","x":"2","z":"1","talent":"Thumbs_Down"},
+"42":{"y":"2","x":"3","z":"1","talent":"Thumbs_Down"},
+"43":{"y":"2","x":"4","z":"1","talent":"Controlled_Rage"},
+"44":{"y":"2","x":"5","z":"1","talent":"Controlled_Rage"},
+"45":{"y":"3","x":"1","z":"1","talent":"Slaughter"},
+"46":{"y":"3","x":"3","z":"1","talent":"Thumbs_Down"},
+"47":{"y":"3","x":"5","z":"1","talent":"Controlled_Rage"},
+"48":{"y":"4","x":"0","z":"1","talent":"Daredevil"},
+"49":{"y":"4","x":"1","z":"1","talent":"Daredevil"},
+"50":{"y":"4","x":"2","z":"1","talent":"Daredevil"},
+"51":{"y":"4","x":"4","z":"1","talent":"Agile_Maneuvers"},
+"52":{"y":"4","x":"5","z":"1","talent":"Agile_Maneuvers"},
+"53":{"y":"4","x":"6","z":"1","talent":"Agile_Maneuvers"},
+"54":{"y":"5","x":"1","z":"1","talent":"Butcher"},
+"55":{"y":"5","x":"5","z":"1","talent":"Ruthlessness"},
+"56":{"y":"6","x":"0","z":"1","talent":"Blind_Combat"},
+"57":{"y":"6","x":"1","z":"1","talent":"Butcher"},
+"58":{"y":"6","x":"2","z":"1","talent":"Team_Play"},
+"59":{"y":"6","x":"3","z":"1","talent":"Team_Play"},
+"60":{"y":"6","x":"4","z":"1","talent":"Team_Play"},
+"61":{"y":"6","x":"5","z":"1","talent":"Ruthlessness"},
+"62":{"y":"6","x":"6","z":"1","talent":"Bushido"},
+"63":{"y":"7","x":"1","z":"1","talent":"Butcher"},
+"64":{"y":"7","x":"5","z":"1","talent":"Ruthlessness"},
+"65":{"y":"8","x":"0","z":"1","talent":"Bloody_Massacre"},
+"66":{"y":"8","x":"1","z":"1","talent":"Bloody_Massacre"},
+"67":{"y":"8","x":"2","z":"1","talent":"Bloody_Massacre"},
+"68":{"y":"8","x":"3","z":"1","talent":"Rupture"},
+"69":{"y":"8","x":"4","z":"1","talent":"Rupture"},
+"70":{"y":"8","x":"5","z":"1","talent":"Rupture"},
+"71":{"y":"8","x":"6","z":"1","talent":"Battle_Frenzy"},
+"72":{"y":"0","x":"3","z":"2","talent":"Stalwart_Defense"},
+"73":{"y":"1","x":"0","z":"2","talent":"Take_Cover"},
+"74":{"y":"1","x":"1","z":"2","talent":"Take_Cover"},
+"75":{"y":"1","x":"2","z":"2","talent":"Gladiator"},
+"76":{"y":"1","x":"3","z":"2","talent":"Gladiator"},
+"77":{"y":"1","x":"4","z":"2","talent":"Gladiator"},
+"78":{"y":"1","x":"5","z":"2","talent":"Handy_Shield"},
+"79":{"y":"1","x":"6","z":"2","talent":"Handy_Shield"},
+"80":{"y":"2","x":"1","z":"2","talent":"Pebble_Wall"},
+"81":{"y":"2","x":"2","z":"2","talent":"Desire_for_Life"},
+"82":{"y":"2","x":"3","z":"2","talent":"Pebble_Wall"},
+"83":{"y":"2","x":"4","z":"2","talent":"Desire_for_Life"},
+"84":{"y":"2","x":"5","z":"2","talent":"Pebble_Wall"},
+"85":{"y":"3","x":"0","z":"2","talent":"Just_a_Scratch"},
+"86":{"y":"3","x":"1","z":"2","talent":"Knee_Shot"},
+"87":{"y":"3","x":"3","z":"2","talent":"Good_as_New"},
+"88":{"y":"3","x":"5","z":"2","talent":"Bushido"},
+"89":{"y":"3","x":"6","z":"2","talent":"Hexed"},
+"90":{"y":"4","x":"0","z":"2","talent":"Just_a_Scratch"},
+"91":{"y":"4","x":"1","z":"2","talent":"Master_of_Defense"},
+"92":{"y":"4","x":"2","z":"2","talent":"Master_of_Defense"},
+"93":{"y":"4","x":"4","z":"2","talent":"Fencing_Master"},
+"94":{"y":"4","x":"5","z":"2","talent":"Fencing_Master"},
+"95":{"y":"4","x":"6","z":"2","talent":"Hexed"},
+"96":{"y":"5","x":"0","z":"2","talent":"Just_a_Scratch"},
+"97":{"y":"5","x":"1","z":"2","talent":"Master_of_Defense"},
+"98":{"y":"5","x":"3","z":"2","talent":"Lethal_Blows"},
+"99":{"y":"5","x":"5","z":"2","talent":"Fencing_Master"},
+"100":{"y":"5","x":"6","z":"2","talent":"Hexed"},
+"101":{"y":"6","x":"1","z":"2","talent":"Counterattack"},
+"102":{"y":"6","x":"2","z":"2","talent":"Counterattack"},
+"103":{"y":"6","x":"3","z":"2","talent":"Lethal_Blows"},
+"104":{"y":"6","x":"4","z":"2","talent":"Might_over_Magic"},
+"105":{"y":"6","x":"5","z":"2","talent":"Might_over_Magic"},
+"106":{"y":"7","x":"2","z":"2","talent":"Counterattack"},
+"107":{"y":"7","x":"3","z":"2","talent":"Lethal_Blows"},
+"108":{"y":"7","x":"4","z":"2","talent":"Might_over_Magic"},
+"109":{"y":"8","x":"3","z":"2","talent":"Indomitable"},
+"110":{"y":"0","x":"0","z":"3","talent":"Crushing_Blow"},
+"111":{"y":"0","x":"1","z":"3","talent":"Swiftness"},
+"112":{"y":"0","x":"2","z":"3","talent":"Swiftness"},
+"113":{"y":"0","x":"3","z":"3","talent":"Natural_Born_Killer"},
+"114":{"y":"0","x":"4","z":"3","talent":"Natural_Born_Killer"},
+"115":{"y":"0","x":"5","z":"3","talent":"Natural_Born_Killer"},
+"116":{"y":"0","x":"6","z":"3","talent":"Stone_Brainpan"},
+"117":{"y":"1","x":"0","z":"3","talent":"Caffeine"},
+"118":{"y":"1","x":"3","z":"3","talent":"Rampaging_Menace"},
+"119":{"y":"1","x":"6","z":"3","talent":"Thick_Plate"},
+"120":{"y":"2","x":"0","z":"3","talent":"Feint"},
+"121":{"y":"2","x":"1","z":"3","talent":"Feint"},
+"122":{"y":"2","x":"2","z":"3","talent":"Feint"},
+"123":{"y":"2","x":"3","z":"3","talent":"Rampaging_Menace"},
+"124":{"y":"2","x":"4","z":"3","talent":"Bull's_Eye"},
+"125":{"y":"2","x":"5","z":"3","talent":"Bull's_Eye"},
+"126":{"y":"2","x":"6","z":"3","talent":"Thick_Plate"},
+"127":{"y":"3","x":"2","z":"3","talent":"Musclehead"},
+"128":{"y":"3","x":"3","z":"3","talent":"Rampaging_Menace"},
+"129":{"y":"3","x":"4","z":"3","talent":"Combat_Training"},
+"130":{"y":"3","x":"5","z":"3","talent":"Bull's_Eye"},
+"131":{"y":"3","x":"6","z":"3","talent":"Thick_Plate"},
+"132":{"y":"4","x":"0","z":"3","talent":"Bash"},
+"133":{"y":"4","x":"1","z":"3","talent":"Bash"},
+"134":{"y":"4","x":"2","z":"3","talent":"Musclehead"},
+"135":{"y":"4","x":"4","z":"3","talent":"Combat_Training"},
+"136":{"y":"4","x":"5","z":"3","talent":"Lance_Warrior"},
+"137":{"y":"4","x":"6","z":"3","talent":"Lance_Warrior"},
+"138":{"y":"5","x":"0","z":"3","talent":"Survival_Code"},
+"139":{"y":"5","x":"1","z":"3","talent":"Lucky"},
+"140":{"y":"5","x":"2","z":"3","talent":"Musclehead"},
+"141":{"y":"5","x":"3","z":"3","talent":"Rugged_Fighter"},
+"142":{"y":"5","x":"4","z":"3","talent":"Combat_Training"},
+"143":{"y":"5","x":"6","z":"3","talent":"Bushido"},
+"144":{"y":"6","x":"0","z":"3","talent":"Survival_Code"},
+"145":{"y":"6","x":"1","z":"3","talent":"Lucky"},
+"146":{"y":"6","x":"2","z":"3","talent":"Lucky"},
+"147":{"y":"6","x":"3","z":"3","talent":"Rugged_Fighter"},
+"148":{"y":"6","x":"4","z":"3","talent":"Warden"},
+"149":{"y":"6","x":"5","z":"3","talent":"Warden"},
+"150":{"y":"6","x":"6","z":"3","talent":"Warden"},
+"151":{"y":"7","x":"0","z":"3","talent":"Survival_Code"},
+"152":{"y":"7","x":"2","z":"3","talent":"Streetfighter"},
+"153":{"y":"7","x":"3","z":"3","talent":"Rugged_Fighter"},
+"154":{"y":"7","x":"6","z":"3","talent":"Instant_Shot"},
+"155":{"y":"8","x":"0","z":"3","talent":"Unstoppable_Force"},
+"156":{"y":"8","x":"1","z":"3","talent":"Streetfighter"},
+"157":{"y":"8","x":"2","z":"3","talent":"Streetfighter"},
+"158":{"y":"8","x":"3","z":"3","talent":"Low_Flight"},
+"159":{"y":"8","x":"4","z":"3","talent":"Low_Flight"},
+"160":{"y":"8","x":"5","z":"3","talent":"Low_Flight"},
+"161":{"y":"8","x":"6","z":"3","talent":"Crushing_Blow"}
+},
+
+"class":{"line":"/images/new/1.png","name":"WARRIOR","calcOfficer":"0","statDefault":"0","calcUrl":"w","title":"Warrior"},
+
+"talents":
+
+{"1":{"locks":{},"ico":"Interface/Icons/Spells/Warrior/WarriorPowerAttack.png","body":"!Devastating_Blow.d","time":"0","lvls":{"1":"","2":"","3":""},"modifiers":{},"element":"","linked":{},"name":"r_Devastating_Blow","link":{},"icoPosition":"320","preparation":"0","title":"Devastating Blow"},
+
+"2":{"locks":{},"ico":"Interface/Icons/Spells/Warrior/WarriorPowerAttack.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dInflicts damage.<br/>Generates \"15\" combat advantage points.<br/>","time":"0","lvls":{"1":{"radius":"0","e":"","mana":"14","range":"Melee","time":"0","lvl":"1","cooldown":"1.559","damage":""},"2":{"radius":"0","e":"","mana":"14","range":"Melee","time":"0","lvl":"2","cooldown":"1.559","damage":""},"3":{"radius":"0","e":"","mana":"14","range":"Melee","time":"0","lvl":"3","cooldown":"1.559","damage":""}},"modifiers":{},"element":"Physical","linked":{},"name":"Devastating_Blow","link":{},"icoPosition":"0","preparation":"0","title":"Devastating Blow"},
+
+
+"3":{"locks":{},"ico":"Interface/Icons/Spells/Warrior/WarriorCharge.png","body":"!Charge.d","time":"0","lvls":{"1":"","2":"","3":""},"modifiers":{},"element":"","linked":{},"name":"r_Charge","link":{},"icoPosition":"960","preparation":"0","title":"Charge"},
+
+"4":{"locks":{},"ico":"Interface/Icons/Spells/Warrior/WarriorCharge.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dCharges to the target inflicting damage and <br/>knocking it down.<br/>Generates \"10\" Combat Advantage.<br/>","time":"0","lvls":{"1":{"radius":"0","e":"","mana":"20","range":"25","time":"0","lvl":"1","cooldown":"35","damage":""},"2":{"radius":"0","e":"","mana":"20","range":"30","time":"0","lvl":"2","cooldown":"30","damage":""},"3":{"radius":"0","e":"","mana":"20","range":"30","time":"0","lvl":"3","cooldown":"25","damage":""}},"modifiers":{},"element":"Physical","linked":{},"name":"Charge","link":{},"icoPosition":"40","preparation":"0","title":"Charge"},
+
+"5":{"locks":{},"ico":"Interface/Icons/Spells/Paladin/PaladinBlessedSword.png","body":"!Agonizing_Strike.d","time":"0","lvls":{"1":"","2":"","3":""},"modifiers":{},"element":"","linked":{},"name":"r_Agonizing_Strike","link":{},"icoPosition":"1568","preparation":"0","title":"Agonizing Strike"},
+
+"6":{"locks":{},"ico":"Interface/Icons/Spells/Paladin/PaladinBlessedSword.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dMelee attack that deals damage.<br/>Consumes *50* Combat Advantage.<br/>","time":"0","lvls":{"1":{"radius":"0","e":"","mana":"9","range":"9","time":"0","lvl":"1","cooldown":"1.949","damage":""},"2":{"radius":"0","e":"","mana":"9","range":"9","time":"0","lvl":"2","cooldown":"1.949","damage":""},"3":{"radius":"0","e":"","mana":"9","range":"9","time":"0","lvl":"3","cooldown":"1.949","damage":""}},"modifiers":{},"element":"Physical","linked":{},"name":"Agonizing_Strike","link":{},"icoPosition":"80","preparation":"0","title":"Agonizing Strike"},
+
+"7":{"locks":{},"ico":"Interface/Icons/Spells/Warrior/WarriorFlurryOfBlows.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dMelee attack that deals damage.<br/>This ability has its own cooldown duration.<br/>Generates \"10\" Combat Advantage.<br/>","time":"0","lvls":{"1":{"radius":"0","e":"","mana":"12","range":"Melee","time":"0","lvl":"1","cooldown":"1.267","damage":""},"2":{"radius":"0","e":"","mana":"12","range":"Melee","time":"0","lvl":"2","cooldown":"1.267","damage":""},"3":{"radius":"0","e":"","mana":"12","range":"Melee","time":"0","lvl":"3","cooldown":"1.267","damage":""}},"modifiers":{},"element":"Physical","linked":{},"name":"Lunge","link":{},"icoPosition":"120","preparation":"0","title":"Lunge"},
+
+"8":{"locks":{},"ico":"Interface/Icons/Spells/Warrior/WarriorShieldBash.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dInflicts damage and knocks the target down.<br/>Can be used only after dodging, blocking or <br/>parrying the enemy's attacks.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{},"mana":"20","range":"Melee","time":"0","lvl":"1","cooldown":"10","damage":""},"2":{"radius":"0","e":{},"mana":"20","range":"Melee","time":"0","lvl":"2","cooldown":"10","damage":""},"3":{"radius":"0","e":{},"mana":"20","range":"Melee","time":"0","lvl":"3","cooldown":"10","damage":""}},"modifiers":{},"element":"Physical","linked":{},"name":"Shield_Slam","link":{},"icoPosition":"160","preparation":"0","title":"Shield Slam"},
+
+"9":{"locks":{},"ico":"Interface/Icons/Spells/Priest/PriestHeavenlyLight.png","body":"!lvl !cost !dAfter receiving a lethal blow cancels all control </br>effects, increases your health by \\!e1%\\ and restores </br>the same amount of hit points.<br/> Lasts for 16 seconds.<br/> \\!e2\\ seconds cooldown.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"40"},"2":{"e":"300"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"70"},"2":{"e":"210"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"80"},"2":{"e":"180"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Die_Hard","link":{},"icoPosition":"200","preparation":"0","title":"Die Hard"},
+
+"10":{"locks":{},"ico":"Interface/Icons/Equipment/Boots/PlateOrcWarriorBoots.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dInflicts !e1 to !e2 damage and has a 50% chance to knock the target down.<br/>Inflicted damage depends on the level of equipped boots.<br/>\"Generates 10 combat advantage.\"<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"11605"},"2":{"e":"19342"}},"mana":"5","range":"5","time":"0","lvl":"1","cooldown":"30","damage":""},"2":{"radius":"0","e":{"1":{"e":"14216"},"2":{"e":"23694"}},"mana":"5","range":"5","time":"0","lvl":"2","cooldown":"20","damage":""},"3":{"radius":"0","e":{"1":{"e":"14942"},"2":{"e":"24903"}},"mana":"5","range":"5","time":"0","lvl":"3","cooldown":"15","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Forceful_Kick","link":{},"icoPosition":"240","preparation":"0","title":"Forceful Kick"},
+
+"11":{"locks":{},"ico":"Interface/Icons/Spells/Paladin/PaladinTaunt.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dForces the target to attack you for 10 seconds.<br/>When used on another player, cooldown of this ability increases by 100%, and its duration decreases to 5 seconds.<br/> Each of your two next melee attacks on the same target will increase the duration by 2.5 seconds.<br/> Target of this effect will inflict 50% less damage to everyone but you.<br/>The target must inflict damage equal to !e1% of your total health to be able to switch to another target.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"10"}},"mana":"10","range":"10","time":"0","lvl":"1","cooldown":"60","damage":""},"2":{"radius":"0","e":{"1":{"e":"20"}},"mana":"10","range":"10","time":"0","lvl":"2","cooldown":"30","damage":""},"3":{"radius":"0","e":{"1":{"e":"25"}},"mana":"10","range":"10","time":"0","lvl":"3","cooldown":"20","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Intimidate","link":{},"icoPosition":"280","preparation":"0","title":"Intimidate"},
+
+"12":{"locks":{},"ico":"Interface/Icons/Spells/Priest/PriestAspectMight.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dMelee attack that deals !e1 to !e2 damage to a knocked down target.<br/>\" Generates 20 Combat Advantage.\"<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"65363"},"2":{"e":"65363"}},"mana":"16","range":"16","time":"0","lvl":"1","cooldown":"6","damage":""},"2":{"radius":"0","e":{"1":{"e":"80070"},"2":{"e":"80070"}},"mana":"16","range":"16","time":"0","lvl":"2","cooldown":"6","damage":""},"3":{"radius":"0","e":{"1":{"e":"84155"},"2":{"e":"84155"}},"mana":"16","range":"16","time":"0","lvl":"3","cooldown":"6","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Arcing_Blow","link":{},"icoPosition":"320","preparation":"0","title":"Arcing Blow"},
+
+"13":{"locks":{},"ico":"Interface/Icons/Spells/Paladin/PaladinSacrifice.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dA powerful kick that inflicts !e1 to !e2 damage and reduces the target's movement speed by 50% for !e3 seconds.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"5526"},"2":{"e":"16579"},"3":{"e":"8"}},"mana":"5","range":"5","time":"0","lvl":"1","cooldown":"3","damage":""},"2":{"radius":"0","e":{"1":{"e":"6770"},"2":{"e":"20309"},"3":{"e":"10"}},"mana":"5","range":"5","time":"0","lvl":"2","cooldown":"3","damage":""},"3":{"radius":"0","e":{"1":{"e":"7115"},"2":{"e":"21345"},"3":{"e":"12"}},"mana":"5","range":"5","time":"0","lvl":"3","cooldown":"3","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Hack","link":{},"icoPosition":"360","preparation":"0","title":"Hack"},
+
+"14":{"locks":{},"ico":"Interface/Icons/Spells/Warrior/WarriorRend.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dInflicts !e1 damage per second during 5 seconds.<br/>* Consumes 40 Combat Advantage.*<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"16760"}},"mana":"20","range":"20","time":"0","lvl":"1","cooldown":"1.949","damage":""},"2":{"radius":"0","e":{"1":{"e":"20531"}},"mana":"20","range":"20","time":"0","lvl":"2","cooldown":"1.949","damage":""},"3":{"radius":"0","e":{"1":{"e":"21578"}},"mana":"20","range":"20","time":"0","lvl":"3","cooldown":"1.949","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Jagged_Slice","link":{},"icoPosition":"400","preparation":"0","title":"Jagged Slice"},
+
+"15":{"locks":{},"ico":"Interface/Icons/Spells/Necromancer/CriticalCure.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dEnergy regeneration rate increases by 100% for 20 seconds.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"210","damage":""},"2":{"radius":"0","e":{},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"150","damage":""},"3":{"radius":"0","e":{},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"120","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Adrenaline_Buzz","link":{},"icoPosition":"440","preparation":"0","title":"Adrenaline Buzz"},
+
+"16":{"locks":{},"ico":"Interface/Icons/Spells/PhysDmg.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dDecreases your armor by 30%.<br/> Your weapon attacks increase physical damage done by your party members by !e1%Cast this spell again to remove this effectYou cannot use this spell when your shield is equipped","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"5"}},"mana":"50","range":"50","time":"2","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"10"}},"mana":"50","range":"50","time":"2","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"15"}},"mana":"50","range":"50","time":"2","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Aura_of_Ferocity","link":{},"icoPosition":"600","preparation":"0","title":"Aura of Ferocity"},
+
+"17":{"locks":{},"ico":"Interface/Icons/Spells/Warrior/WarriorAttackCombo.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dMelee attack deals !e1 to !e2 damage to two enemies in front of you.<br/>\" Each successful hit generates 10 Combat Advantage.\"<br/>","time":"0","lvls":{"1":{"radius":"5","e":{"1":{"e":"31150"},"2":{"e":"31150"}},"mana":"19","range":"19","time":"0","lvl":"1","cooldown":"1.949","damage":""},"2":{"radius":"5","e":{"1":{"e":"38158"},"2":{"e":"38158"}},"mana":"19","range":"19","time":"0","lvl":"2","cooldown":"1.949","damage":""},"3":{"radius":"5","e":{"1":{"e":"40105"},"2":{"e":"40105"}},"mana":"19","range":"19","time":"0","lvl":"3","cooldown":"1.949","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Double_Blow","link":{},"icoPosition":"480","preparation":"0","title":"Double Blow"},
+
+"18":{"locks":{},"ico":"Interface/Icons/Spells/Warrior/WarriorWhirlwind.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dMelee attack inflicting !e1 damage once per second to all enemies in a 7 yard radius.<br/> Movement speed decreases by 50% during cast.<br/>*Consumes 65 Combat Advantage.*<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"29686"}},"mana":"27","range":"27","time":"5","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"36365"}},"mana":"27","range":"27","time":"5","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"38221"}},"mana":"27","range":"27","time":"5","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"_Vicious_Spin","link":{},"icoPosition":"520","preparation":"0","title":" Vicious Spin"},
+
+"19":{"locks":{},"ico":"Interface/Icons/Spells/Warrior/WarriorInnerRage.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dInflicts !e1 to !e2 damage, pushes it back for !e3 yards and knocks off feet.<br/>Damage depends on the quality and level of the equipped helm.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"59684"},"2":{"e":"72947"},"3":{"e":"15"}},"mana":"25","range":"25","time":"0","lvl":"1","cooldown":"60","damage":""},"2":{"radius":"0","e":{"1":{"e":"73113"},"2":{"e":"89360"},"3":{"e":"20"}},"mana":"25","range":"25","time":"0","lvl":"2","cooldown":"50","damage":""},"3":{"radius":"0","e":{"1":{"e":"76843"},"2":{"e":"93919"},"3":{"e":"25"}},"mana":"25","range":"25","time":"0","lvl":"3","cooldown":"45","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Headbutt","link":{},"icoPosition":"560","preparation":"0","title":"Headbutt"},
+
+"20":{"locks":{"0":{"parent":"Devastating_Blow","side":"0"}},"ico":"Interface/Icons/Spells/Warrior/WarriorPowerAttackUpgrade.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dMelee attack inflicting !e1 to !e2 damage.<br/>\"Generates 15 Combat Advantage.\"<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"42222"},"2":{"e":"42222"}},"mana":"14","range":"14","time":"0","lvl":"1","cooldown":"1.559","damage":""},"2":{"radius":"0","e":{"1":{"e":"51722"},"2":{"e":"51722"}},"mana":"14","range":"14","time":"0","lvl":"2","cooldown":"1.559","damage":""},"3":{"radius":"0","e":{"1":{"e":"54361"},"2":{"e":"54361"}},"mana":"14","range":"14","time":"0","lvl":"3","cooldown":"1.559","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Flawless_Strike","link":{},"icoPosition":"640","preparation":"0","title":"Flawless Strike"},
+
+"21":{"locks":{"0":{"parent":"Double_Blow","side":"0"}},"ico":"Interface/Icons/Spells/Warrior/WarriorAttackCombo.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dMelee attack deals !e1 to !e2 damage to two enemies in front of you.<br/>\" Each successful hit generates 10 Combat Advantage.\"<br/>","time":"0","lvls":{"1":{"radius":"5","e":{"1":{"e":"32941"},"2":{"e":"32941"}},"mana":"19","range":"19","time":"0","lvl":"1","cooldown":"1.949","damage":""},"2":{"radius":"5","e":{"1":{"e":"40353"},"2":{"e":"40353"}},"mana":"19","range":"19","time":"0","lvl":"2","cooldown":"1.949","damage":""},"3":{"radius":"5","e":{"1":{"e":"42411"},"2":{"e":"42411"}},"mana":"19","range":"19","time":"0","lvl":"3","cooldown":"1.949","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Rapid_Slash","link":{},"icoPosition":"840","preparation":"0","title":"Rapid Slash"},
+
+"22":{"locks":{"0":{"parent":"_Vicious_Spin","side":"0"}},"ico":"Interface/Icons/Spells/Warrior/WarriorWhirlwindUpgrade.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dMelee attack inflicting !e1 damage per second to all enemies within a 7 yard radius.<br/> Movement speed decreases by 50% during cast.<br/>*Consumes 65 Combat Advantage.*<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"31393"}},"mana":"27","range":"27","time":"5","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"38456"}},"mana":"27","range":"27","time":"5","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"40418"}},"mana":"27","range":"27","time":"5","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Whirlwind","link":{},"icoPosition":"680","preparation":"0","title":"Whirlwind"},
+
+"23":{"locks":{"0":{"parent":"Agonizing_Strike","side":"0"}},"ico":"Interface/Icons/Spells/Paladin/PaladinBlessedSword.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dMelee attack inflicting !e1 to !e2 damage.<br/>*Consumes 50 Combat Advantage.*<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"66626"},"2":{"e":"66626"}},"mana":"9","range":"9","time":"0","lvl":"1","cooldown":"1.949","damage":""},"2":{"radius":"0","e":{"1":{"e":"81616"},"2":{"e":"81616"}},"mana":"9","range":"9","time":"0","lvl":"2","cooldown":"1.949","damage":""},"3":{"radius":"0","e":{"1":{"e":"85781"},"2":{"e":"85781"}},"mana":"9","range":"9","time":"0","lvl":"3","cooldown":"1.949","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Fatal_Blow","link":{},"icoPosition":"800","preparation":"0","title":"Fatal Blow"},
+
+"24":{"locks":{},"ico":"Interface/Icons/Spells/Warrior/MotivatedAggression.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dGrants the Warrior generation of 10 Combat Advantage per second during !e1 seconds.<br/> You will be in a combat mode while the effect is active.<br/>*Consumes 3 Tears of Dragon.*<br/> Using Tears of Dragon of a higher quality reduces the cooldown.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"7"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"120","damage":""},"2":{"radius":"0","e":{"1":{"e":"9"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"120","damage":""},"3":{"radius":"0","e":{"1":{"e":"10"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"120","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Reasoned_Aggression","link":{},"icoPosition":"720","preparation":"0","title":"Reasoned Aggression"},
+
+"25":{"locks":{},"ico":"Interface/Icons/Spells/Warrior/WarriorsForce.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dWarrior receives 3 stacks of Heroic Might for 20 seconds.<br/>Each use of \"Forceful Kick\", \"Hack\", \"Devastating Blow\" and \"Flawless Strike\" consumes one stack of the effect.<br/> The abilities deal !e1 additional damage and have extra effects: \"Forceful Kick\" kicks back target for !e2 yards, \"Hack\" immobilizes target for 4.<br/>2 seconds, \"Devastating Blow\" and \"Flawless Strike\" apply Deep Wound, that deals !e3 additional damage every second during 3 seconds.<br/>*Consumes 3 Tears of Dragon.*<br/> Using Tears of Dragon of a higher quality increases additional damage dealt by the Heroic Might effect and duration of the Broken Legs effect.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"72027"},"2":{"e":"10"},"3":{"e":"12004"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"150","damage":""},"2":{"radius":"0","e":{"1":{"e":"88233"},"2":{"e":"15"},"3":{"e":"14705"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"110","damage":""},"3":{"radius":"0","e":{"1":{"e":"92736"},"2":{"e":"20"},"3":{"e":"15457"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"90","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Heroic_Might","link":{},"icoPosition":"760","preparation":"0","title":"Heroic Might"},
+
+"26":{"locks":{},"ico":"Interface/Icons/Spells/Necromancer/PetCommandAttack.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dDelivers 6 blows every half second for 2.5 seconds.<br/> Each blow inflicts !e1 to !e2 damage.<br/> Movement speed reduces by 50% during cast.<br/>* Consumes 70 Combat Advantage.*<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"30028"},"2":{"e":"30028"}},"mana":"20","range":"20","time":"2.5","lvl":"1","cooldown":"45","damage":""},"2":{"radius":"0","e":{"1":{"e":"36784"},"2":{"e":"36784"}},"mana":"20","range":"20","time":"2.5","lvl":"2","cooldown":"30","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Bloodbath","link":{},"icoPosition":"32","preparation":"0","title":"Bloodbath"},
+
+"27":{"locks":{},"ico":"Interface/Icons/Spells/Modifiers/FightingFury.png","body":"!lvl !cost !dDamage dealt by paired weapon increases by !e1%, damage spread decreases by !e2%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"2"},"2":{"e":"33"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"4"},"2":{"e":"67"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"6"},"2":{"e":"100"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Dueler","link":{},"icoPosition":"64","preparation":"0","title":"Dueler"},
+
+"28":{"locks":{},"ico":"Interface/Icons/Spells/Paladin/PaladinSacrifice.chn.png","body":"!lvl !cost !dCritical strikes extra damage dealt by paired weapon increases by !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"6.7"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"13.3"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"20"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Severe_Wounds","link":{},"icoPosition":"96","preparation":"0","title":"Severe Wounds"},
+
+"29":{"locks":{},"ico":"Interface/Icons/Spells/Modifiers/OnlyChance.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dAll Group Members' damage increases by !e1% for 15 seconds, but Willpower decreases to 1.<br/> This is a negative control effect.<br/> Cannot be cast if a shield is equipped.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"50"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"300","damage":""},"2":{"radius":"0","e":{"1":{"e":"100"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"300","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Battle_Frenzy","link":{},"icoPosition":"128","preparation":"0","title":"Battle Frenzy"},
+
+"30":{"locks":{},"ico":"Interface/Icons/Spells/Paladin/PaladinVengeance.chn.png","body":"!lvl !cost !dIncreases a critical strike chance of \"Jagged Slice\", \"Bloodbath\", \"Agonizing Strike\", \"Fatal Blow\",\" Vicious Spin\" and \"Whirlwind\" by !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"30"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"60"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"90"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Slaughter","link":{},"icoPosition":"160","preparation":"0","title":"Slaughter"},
+
+"31":{"locks":{},"ico":"Interface/Icons/Spells/Warrior/WarriorCruelty.chn.png","body":"!lvl !cost !dDamage dealt by paired weapon increases by !e1%, cooldowns of weapon-based abilities increase by !e2%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"13.3"},"2":{"e":"10"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"26.7"},"2":{"e":"20"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"40"},"2":{"e":"30"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Long_Swing","link":{},"icoPosition":"192","preparation":"0","title":"Long Swing"},
+
+"32":{"locks":{},"ico":"Interface/Icons/Spells/Psionic/PsionicRapidMetabolism.chn.png","body":"!lvl !cost !dFear effects duration reduces by 50%.<br/> The Warrior under Fear effect gains one stack of Anger that increases damage dealt by 5%.<br/> One stack of Anger fades every 5 seconds.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Sign_of_Weakness","link":{},"icoPosition":"224","preparation":"0","title":"Sign of Weakness"},
+
+"33":{"locks":{},"ico":"Interface/Icons/Spells/Paladin/PaladinSacrifice.chn.png","body":"!lvl !cost !dIncreases damage to knocked down targets by !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"8"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"16"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"25"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Thumbs_Down","link":{},"icoPosition":"96","preparation":"0","title":"Thumbs Down"},
+
+"34":{"locks":{},"ico":"Interface/Icons/Spells/ChampionsSpells/ChampionsHand.chn.png","body":"!lvl !cost !dArmor penalty for \"Aura of Ferocity\" reduces to !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"20"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"10"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"0"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Controlled_Rage","link":{},"icoPosition":"256","preparation":"0","title":"Controlled Rage"},
+
+"35":{"locks":{},"ico":"Interface/Icons/Special/Talents/Stats/StatGainDexterity.png","body":"!lvl !cost !dIncreases your Expertise by !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"3"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"6"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"9"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Daredevil","link":{},"icoPosition":"288","preparation":"0","title":"Daredevil"},
+
+"36":{"locks":{},"ico":"Interface/Icons/Special/Talents/Stats/StatGainAgility.png","body":"!lvl !cost !dIncreases your Agility by !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"3"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"6"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"9"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Agile_Maneuvers","link":{},"icoPosition":"352","preparation":"0","title":"Agile Maneuvers"},
+
+"37":{"locks":{},"ico":"Interface/Icons/Spells/Necromancer/SummonGuard.png","body":"!lvl !cost !dDamage dealt by \"Bloodbath\", \"Crushing Blow\", \"Bash\", \"Jagged Slice\" and \"Arcing Blow\" increases by !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"5"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"10"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"15"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Butcher","link":{},"icoPosition":"384","preparation":"0","title":"Butcher"},
+
+"38":{"locks":{},"ico":"Interface/Icons/Spells/Psionic/SearedMind.chn.png","body":"!lvl !cost !d If \"Jagged Slice\" effect is active, \"Agonizing Strike\" will increase its duration by !e1 second.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"1"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"2"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"3"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Ruthlessness","link":{},"icoPosition":"416","preparation":"0","title":"Ruthlessness"},
+
+"39":{"locks":{},"ico":"Interface/Icons/Spells/Inspect.png","body":"!lvl !cost !dDuration of blinding and disorienting effects applied to the Warrior decreases by 50%.<br/> The Warrior under these effects gains one stack of Anger that increases damage dealt by 5%.<br/> One stack of Anger fades every 5 seconds.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Blind_Combat","link":{},"icoPosition":"448","preparation":"0","title":"Blind Combat"},
+
+"40":{"locks":{},"ico":"Interface/Icons/Spells/Modifiers/EliteAstral.png","body":"!lvl !cost !dDamage dealt increases by !e1% per each Group Member in the radius of 40 yards.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"0.5"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"1"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"1.5"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Team_Play","link":{},"icoPosition":"480","preparation":"0","title":"Team Play"},
+
+"41":{"locks":{},"ico":"Interface/Icons/Spells/Modifiers/Respite.png","body":"!lvl !cost !dWarrior restores !e1 energy every 2 seconds.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"1"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"2"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"3"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Bushido","link":{},"icoPosition":"512","preparation":"0","title":"Bushido"},
+
+"42":{"locks":{},"ico":"Interface/Icons/Spells/BloodLust01.png","body":"!lvl !cost !dIf paired weapon is equipped, each use of \"Bloodbath\" ability has !e1% chance for an additional blow.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"33"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"67"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"100"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Bloody_Massacre","link":{},"icoPosition":"544","preparation":"0","title":"Bloody Massacre"},
+
+"43":{"locks":{},"ico":"Interface/Icons/Special/Talents/Stalker/CritImpr.png","body":"!lvl !cost !dIncreases duration of \"Jagged Slice\" ability by !e1 second.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"1"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"2"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"3"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Rupture","link":{},"icoPosition":"576","preparation":"0","title":"Rupture"},
+
+"44":{"locks":{},"ico":"Interface/Icons/Spells/Mage/Sanctuary.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dGrants a Group Member an effect to generate 25% less threat and protects against death.<br/> The Group Member survives after receiving a lethal blow, and transfers all incoming damage to the Warrior for 6 seconds.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"180","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Stalwart_Defense","link":{},"icoPosition":"608","preparation":"0","title":"Stalwart Defense"},
+
+"45":{"locks":{},"ico":"Interface/Icons/Spells/Priest/PriestHeavenlyStrike.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dIncreases block rate by 150% for !e1 seconds.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"6"}},"mana":"20","range":"20","time":"0","lvl":"1","cooldown":"30","damage":""},"2":{"radius":"0","e":{"1":{"e":"8"}},"mana":"20","range":"20","time":"0","lvl":"2","cooldown":"20","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Take_Cover","link":{},"icoPosition":"640","preparation":"0","title":"Take Cover"},
+
+"46":{"locks":{},"ico":"Interface/Icons/Spells/Stalker/ThrowADagger.png","body":"!lvl !cost !dOne-handed weapon damage increases by !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"7"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"13"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"20"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Gladiator","link":{},"icoPosition":"672","preparation":"0","title":"Gladiator"},
+
+"47":{"locks":{},"ico":"Interface/Icons/Equipment/Shield/ShieldPaladin.tr.png","body":"!lvl !cost !d\"Shield Slam\" damage increases by !e1%.<br/> Its cooldown decreases by !e2 seconds.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"10"},"2":{"e":"1.5"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"20"},"2":{"e":"3"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Handy_Shield","link":{},"icoPosition":"704","preparation":"0","title":"Handy Shield"},
+
+"48":{"locks":{},"ico":"Interface/Icons/Spells/Psionic/PsionicMindShield.png","body":"!lvl !cost !dStony Resilience restores in battle at !e1% of normal speed.<br/>If the barrier is fully destroyed, it restores in battle after !e2 seconds.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"17"},"2":{"e":"60"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"33"},"2":{"e":"30"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"50"},"2":{"e":"20"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Pebble_Wall","link":{},"icoPosition":"736","preparation":"0","title":"Pebble Wall"},
+
+"49":{"locks":{},"ico":"Interface/Icons/Spells/RateOfTreatment.chn.png","body":"!lvl !cost !dReduces cooldown of \"Die Hard\" ability by !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"20"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"40"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Desire_for_Life","link":{},"icoPosition":"768","preparation":"0","title":"Desire for Life"},
+
+"50":{"locks":{},"ico":"Interface/Icons/Spells/Modifiers/AstralBarrier.png","body":"!lvl !cost !dNon-critical damage received reduces by !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"3"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"6"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"10"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Just_a_Scratch","link":{},"icoPosition":"800","preparation":"0","title":"Just a Scratch"},
+
+"51":{"locks":{},"ico":"Interface/Icons/Spells/Stalker/FootShot.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dSingle shot that inflicts 9046 to 27137 damage and reduces target's speed by 50% for 10 seconds.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{},"mana":"25","range":"25","time":"0","lvl":"1","cooldown":"20","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Knee_Shot","link":{},"icoPosition":"832","preparation":"0","title":"Knee Shot"},
+
+"52":{"locks":{},"ico":"Interface/Icons/Spells/Modifiers/AngerAstral.png","body":"!lvl !cost !dEvery kill reduces \"Charge\" cooldown by 10 seconds.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Good_as_New","link":{},"icoPosition":"864","preparation":"0","title":"Good as New"},
+
+"53":{"locks":{},"ico":"Interface/Icons/Spells/Warrior/WarriorDefenseCombo.png","body":"!lvl !cost !dIf a shield is equipped, the incoming damage may be reduced by 0 with probability !e1%, depending on the quality and level of the shield.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"5"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"10"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"15"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Hexed","link":{},"icoPosition":"896","preparation":"0","title":"Hexed"},
+
+"54":{"locks":{},"ico":"Interface/Icons/Equipment/Shield/ShieldKnight.png","body":"!lvl !cost !dShield block rate increases by !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"5"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"10"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"15"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Master_of_Defense","link":{},"icoPosition":"928","preparation":"0","title":"Master of Defense"},
+
+"55":{"locks":{},"ico":"Interface/Icons/Spells/Warrior/WarriorUncannyParry.png","body":"!lvl !cost !dIncreases your chance to parry by !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"5"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"10"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"15"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Fencing_Master","link":{},"icoPosition":"992","preparation":"0","title":"Fencing Master"},
+
+"56":{"locks":{},"ico":"Interface/Icons/Spells/Stalker/StalkerSideStrike.png","body":"!lvl !cost !dChance to dodge an enemy attack increases by !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"20"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"40"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Black_Belt","link":{},"icoPosition":"1024","preparation":"0","title":"Black Belt"},
+
+"57":{"locks":{},"ico":"Interface/Icons/Special/Talents/Stats/StatGainHardiness.png","body":"!lvl !cost !dIncreases your Finesse by !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"3"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"6"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"9"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Lethal_Blows","link":{},"icoPosition":"1056","preparation":"0","title":"Lethal Blows"},
+
+"58":{"locks":{},"ico":"Interface/Icons/Spells/Paladin/PaladinBlessedShield.png","body":"!lvl !cost !dWhen incoming damage is blocked, the Warrior receives !e1 energy.<br/> This ability may work only once per 2 seconds.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"3"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"6"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"10"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Counterattack","link":{},"icoPosition":"1088","preparation":"0","title":"Counterattack"},
+
+"59":{"locks":{},"ico":"Interface/Icons/Spells/Paladin/PaladinRevenge.png","body":"!lvl !cost !dChance to shield-block magic damage is !e1% of your chance to block physical damage.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"34"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"67"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"100"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Might_over_Magic","link":{},"icoPosition":"1120","preparation":"0","title":"Might over Magic"},
+
+"60":{"locks":{},"ico":"Interface/Icons/Spells/Modifiers/ThePowerAstral.png","body":"!lvl !cost !dDuration of control effects applied to the Warrior decreases by 50%, except slowdown, fear, knockdown, stunning, blinding or disorientation effects.<br/> The Warrior under these effects gains one stack of Anger that increases damage dealt by 5%.<br/> One stack of Anger fades every 5 seconds.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Indomitable","link":{},"icoPosition":"1152","preparation":"0","title":"Indomitable"},
+
+"61":{"locks":{},"ico":"Interface/Icons/Spells/Modifiers/FieryRevenge.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dJumps to a specified location, inflicting !e1 to !e2 damage to all enemies in a 10 yard radius and toss them up for 1.<br/>5 seconds.<br/>","time":"0","lvls":{"1":{"radius":"10","e":{"1":{"e":"177571"},"2":{"e":"177571"}},"mana":"35","range":"35","time":"1","lvl":"1","cooldown":"120","damage":""},"2":{"radius":"10","e":{"1":{"e":"197801"},"2":{"e":"197801"}},"mana":"35","range":"35","time":"1","lvl":"2","cooldown":"60","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Crushing_Blow","link":{},"icoPosition":"1184","preparation":"0","title":"Crushing Blow"},
+
+"62":{"locks":{},"ico":"Interface/Icons/Spells/Stalker/Onslaught.png","body":"!lvl !cost !dEach attack that successfully deals damage to a single target increases Warrior's movement speed by !e1% for 7 seconds.<br/> This effect stacks up to 3 times.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"5"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"10"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Swiftness","link":{},"icoPosition":"1216","preparation":"0","title":"Swiftness"},
+
+"63":{"locks":{},"ico":"Interface/Icons/Spells/Necromancer/SummonBanshee.chn.png","body":"!lvl !cost !dIncreases damage dealt by \"Agonizing Strike\", \"Fatal Blow\",\" Vicious Spin\" and \"Whirlwind\" by !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"5"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"10"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"15"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Natural_Born_Killer","link":{},"icoPosition":"1248","preparation":"0","title":"Natural Born Killer"},
+
+"64":{"locks":{},"ico":"Interface/Icons/Spells/Priest/PriestZeal.png","body":"!lvl !cost !dKnockdowns and stuns duration reduces by 50%.<br/> The Warrior under these effects gains one stack of Anger that increases damage dealt by 5%.<br/> One stack of Anger fades every 5 seconds.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Stone_Brainpan","link":{},"icoPosition":"1280","preparation":"0","title":"Stone Brainpan"},
+
+"65":{"locks":{},"ico":"Interface/Icons/Spells/Stalker/RecoilJumpUpgrade.png","body":"!lvl !cost !dDuration of slowdown effects applied to the Warrior decreases by 50%.<br/> The Warrior under these effects gains one stack of Anger that increases damage dealt by 5%.<br/> One stack of Anger fades every 5 seconds.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Caffeine","link":{},"icoPosition":"1312","preparation":"0","title":"Caffeine"},
+
+"66":{"locks":{},"ico":"Interface/Icons/Special/Talents/Stats/StatGainStrength.png","body":"!lvl !cost !dIncreases your Strength by !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"3"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"6"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"9"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Rampaging_Menace","link":{},"icoPosition":"1344","preparation":"0","title":"Rampaging Menace"},
+
+"67":{"locks":{},"ico":"Interface/Icons/Special/Talents/Mage/IStoneskin.png","body":"!lvl !cost !dIf two-handed weapon is equipped, armor increases by !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"3"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"6"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"9"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Thick_Plate","link":{},"icoPosition":"1376","preparation":"0","title":"Thick Plate"},
+
+"68":{"locks":{},"ico":"Interface/Icons/Spells/Stalker/WhirlwindBlades.png","body":"!lvl !cost !d\"Lunge\" ability spends !e1% less energy if two-handed weapon is equipped.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"15"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"30"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"45"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Feint","link":{},"icoPosition":"1408","preparation":"0","title":"Feint"},
+
+"69":{"locks":{},"ico":"Interface/Icons/Spells/Priest/PriestAspectMightUpgrade.png","body":"!lvl !cost !dDamage dealt by \"Devastating Blow\", \"Flawless Strike\", \"Double Blow\" and \"Rapid Slash\" increases by !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"5"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"10"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"15"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Bull's_Eye","link":{},"icoPosition":"1440","preparation":"0","title":"Bull's Eye"},
+
+"70":{"locks":{},"ico":"Interface/Icons/Spells/Warrior/KickUpgrade.png","body":"!lvl !cost !dIncreases a critical strike chance of \"Lunge\", \"Charge\", \"Shield Slam\", \"Crushing Blow\", \"Knee Shot\", \"Hack\", \"Headbutt\" and Inciting Shot by !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"30"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"60"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"90"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Musclehead","link":{},"icoPosition":"1472","preparation":"0","title":"Musclehead"},
+
+"71":{"locks":{},"ico":"Interface/Icons/Spells/Necromancer/PetCommandAttack.chn.png","body":"!lvl !cost !dDamage dealt by \"Lunge\", \"Charge\", \"Shield Slam\", \"Headbutt\" and Inciting Shot increases by !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"5"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"10"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"15"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Combat_Training","link":{},"icoPosition":"1504","preparation":"0","title":"Combat Training"},
+
+"72":{"locks":{},"ico":"Interface/Icons/Spells/Priest/PriestCleansingFire.png","body":"!element !lvl !cost !range  !time !cooldown !preparation !dMelee attack inflicting !e1 to !e2 damage knocks off feet and stuns enemy for !e3 seconds.<br/>*Consumes 55 Combat Advantage.*<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"61540"},"2":{"e":"61540"},"3":{"e":"3"}},"mana":"10","range":"10","time":"0","lvl":"1","cooldown":"60","damage":""},"2":{"radius":"0","e":{"1":{"e":"79233"},"2":{"e":"79233"},"3":{"e":"5"}},"mana":"10","range":"10","time":"0","lvl":"2","cooldown":"30","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Bash","link":{},"icoPosition":"1536","preparation":"0","title":"Bash"},
+
+"73":{"locks":{},"ico":"Interface/Icons/Spells/Warrior/WarriorRend.chn.png","body":"!lvl !cost !dDamage inflicted by two-handed weapon increases by !e1%.<br/> Melee range increases by !e2 yards.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"2"},"2":{"e":"1.5"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"4"},"2":{"e":"3"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Lance_Warrior","link":{},"icoPosition":"1600","preparation":"0","title":"Lance Warrior"},
+
+"74":{"locks":{},"ico":"Interface/Icons/Special/Talents/Stats/StatGainResistanceNature.png","body":"!lvl !cost !dIf two-handed weapon is equipped, Elemental, Natural and Divine resistances increase by !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"3"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"6"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"9"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Survival_Code","link":{},"icoPosition":"1632","preparation":"0","title":"Survival Code"},
+
+"75":{"locks":{},"ico":"Interface/Icons/Misc/Crafting/Horseshoe.png","body":"!lvl !cost !dIncreases a critical strike chance of \"Devastating Blow\", \"Flawless Strike\", \"Double Blow\" and \"Rapid Slash\" by !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"30"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"60"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"90"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Lucky","link":{},"icoPosition":"1664","preparation":"0","title":"Lucky"},
+
+"76":{"locks":{},"ico":"Interface/Icons/Special/Talents/Stats/StatGainResolve.png","body":"!lvl !cost !dIncreases your Stamina by !e1%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"3"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"6"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"9"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Rugged_Fighter","link":{},"icoPosition":"1696","preparation":"0","title":"Rugged Fighter"},
+
+"77":{"locks":{},"ico":"Interface/Icons/Spells/Halo/AvatarForm.png","body":"!lvl !cost !d\"Hack\" and \"Knee Shot\" reduce enemy's movement speed by !e1% and increase damage by !e2%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"58"},"2":{"e":"10"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"66"},"2":{"e":"20"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"75"},"2":{"e":"30"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Warden","link":{},"icoPosition":"1728","preparation":"0","title":"Warden"},
+
+"78":{"locks":{},"ico":"Interface/Icons/Spells/Stalker/Rebound.png","body":"!lvl !cost !d\"Charge\" knocks down the enemy for !e1 seconds longer.<br/> Chance to knock down increases up to !e2%.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"0.5"},"2":{"e":"67"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"1"},"2":{"e":"83"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"1.5"},"2":{"e":"100"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Streetfighter","link":{},"icoPosition":"1760","preparation":"0","title":"Streetfighter"},
+
+"79":{"locks":{},"ico":"Interface/Icons/Spells/Stalker/StalkerSteadyShot.png","body":"!lvl !cost !dGrants you an instant use of Aimed Shot.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Instant_Shot","link":{},"icoPosition":"1792","preparation":"0","title":"Instant Shot"},
+
+"80":{"locks":{},"ico":"Interface/Icons/Spells/Stalker/Onslaught.png","body":"!lvl !cost !dWarrior is immune to control spells and effects during \"Charge\".<br/>","time":"0","lvls":{"1":{"radius":"0","e":{},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Unstoppable_Force","link":{},"icoPosition":"1216","preparation":"0","title":"Unstoppable Force"},
+
+"81":{"locks":{},"ico":"Interface/Icons/Spells/ChampionsSpells/ChampionsVeil.png","body":"!lvl !cost !d\"Crushing Blow\" makes !e1 Group Member within a 2 yard radius jump up to the Warrior.<br/>","time":"0","lvls":{"1":{"radius":"0","e":{"1":{"e":"1"}},"mana":"0","range":"0","time":"0","lvl":"1","cooldown":"0","damage":""},"2":{"radius":"0","e":{"1":{"e":"2"}},"mana":"0","range":"0","time":"0","lvl":"2","cooldown":"0","damage":""},"3":{"radius":"0","e":{"1":{"e":"3"}},"mana":"0","range":"0","time":"0","lvl":"3","cooldown":"0","damage":""}},"modifiers":{},"element":"","linked":{},"name":"Low_Flight","link":{},"icoPosition":"1824","preparation":"0","title":"Low Flight"},
+
+"82":{"locks":{},"ico":"","body":"","line":"","time":"0","icoPositionV":"0","modifiers":{},"element":"","linked":{},"link":{},"icoPosition":"0","preparation":"0","title":"Empty Cell"}}}

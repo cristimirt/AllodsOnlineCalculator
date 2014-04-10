@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" type="text/css" href="themes/global.css" />
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" type="text/css" href="themes/ie.css" />
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="themes/ao/main.css" />
+    <link rel="stylesheet" type="text/css" href="themes/ao/ao-calc/calc.css" />
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="data/itemselector.js"></script>
+    <script type="text/javascript" src="data/formuls.js"></script>
+    <script type="text/javascript" src="data/allodsunlocks.js"></script>
+    <script type="text/javascript" src="js/alive.js"></script>
+    <script type="text/javascript" src="js/internallib.js"></script>
+    <script type="text/javascript" src="js/calc.min.js"></script>
+    <script type="text/javascript" src="js/AO.js"></script>
+    <title>Allods Online Calculator</title>
+    <script type="text/javascript">
+        al.staticPath="";
+        al.apiPath="http://api.anotherlive.ru/";
+        al.theme="ao";
+        al.login="guest";
+        al.themeChange=1;
+    </script>
+</head>
+<body style="background: url(themes/ao/images/bg.jpg) repeat;">
+<div style="height: 75px;"></div>
+<div id="localmenu">
+	<a href="#w" class="data" _name="Warrior"></a>
+	<a href="#p" class="data" _name="Healer"></a>
+	<a href="#t" class="data" _name="Paladin"></a>
+	<a href="#n" class="data" _name="Summoner"></a>
+	<a href="#s" class="data" _name="Scout"></a>
+	<a href="#d" class="data" _name="Warden"></a>
+	<a href="#m" class="data" _name="Mage"></a>
+	<a href="#v" class="data" _name="Psionicist"></a>
+	<a href="#b" class="data" _name="Bard"></a>
+	<a href="#e" class="data" _name="Engineer"></a>
+	<a id="showFAQ" _name="FAQ"></a>
+	<a id="showAbout" _name="Creators"></a>
+</div>
+<div class="container calc" id="page">
+<div id="content">
+<div id="main">
+	<div id="news">
+		<h2>Info</h2>
+        English calculator for Allods 5.0
+        <br/>
+        <br/>Engineer class added
+	</div>
+	<div id="video">
+		Only the calculator feature is available.
+        <br/>You can bookmark the link to save your build.
+        <br/>Saving and loading builds can't be done.
+        <br/>Loading random build isn't available.
+	</div>
+</div>
+<div id="calc">
+	<div id="class_back"></div>
+	<div id="classMaster" style="visibility:hidden;"><span _name="<p>Master Class - a player who voluntarily decided to take the administrator and moderator functions to update the information in the new class, one might even say the innovation, talent calculator ALive.</p><p>The class-master is selected from the most decent, experienced, and brainy players who know their class, if not all, then at least the work of all rubies and skills by heart for sure. The very status gives its holder the privilege not only as a general recognition and visit his page class for more than five thousand players every day, but also calls for responsibility for the display of correct and accurate information.</p>">Master class</span>: <a></a></div>
+	<input type="text" id="search" placeholder="Search example: Control" style="visibility:hidden;"/>
+	<div id="mosaic_head_1" class="head_AORField">
+		<div></div>
+		<h2>rubies</h2>
+		<p>Taken: <b>0</b> of <b>0</b></p>
+	</div>
+	<div id="mosaic_head_2" class="head_AORField">
+		<div></div>
+		<h2>rubies</h2>
+		<p>Taken: <b>0</b> of <b>0</b></p>
+	</div>
+	<div id="mosaic_head_3" class="head_AORField">
+		<div></div>
+		<h2>rubies</h2>
+		<p>Taken: <b>0</b> of <b>0</b></p>
+	</div>
+	<div id="mosaic_head_4" class="head_field">
+		Weapons<br/>and Character Stats
+	</div>
+	<div id="mosaic_head_5" class="head_field">
+		Additional rubies<br/> and talents
+	</div>
+	<div id="mosaic_head_6" class="head_field">
+		Basic Character Stats and Bonuses
+	</div>
+	<div id="clear_1" class="clear_button noname_stat" _name="Clear rubies"></div>
+	<div id="clear_2" class="clear_button noname_stat" _name="Clear rubies"></div>
+	<div id="clear_3" class="clear_button noname_stat" _name="Clear rubies"></div>
+	<div id="clear_5" class="clear_button noname_stat" _name="Clear opportunities"></div>
+	<div id="clear_all" class="clear_button noname_stat" _name="Clear all"></div>
+	<div id="lock" _name="Blocking of build and save"></div>
+	<div id="load" _name="Copy link"></div>
+	<div id="random" _name="Load random build"></div>
+	<div id="buildInfo">
+		<div>Author: <span></span></div>
+		<div>Saved: <span></span></div>
+	</div>
+	<div id="mosaic_field_0" class="field_AOTField"></div>
+	<div id="mosaic_field_1" class="field_AORField"></div>
+	<div id="mosaic_field_2" class="field_AORField"></div>
+	<div id="mosaic_field_3" class="field_AORField"></div>
+	<div id="mosaic_field_4" class="field_AOItem"><div id="mosaic_4_0_0" class="cell y0 x0"><div class="deactive"></div><div class="lvl"></div></div><div id="mosaic_4_0_1" class="cell y0 x1"><div class="deactive"></div><div class="lvl"></div></div></div>
+	<div id="mosaic_field_5" class="field_AOUnlocks"><div id="shopSkills"></div><div id="shopRubins"></div><div id="mosaic_5_0_0" class="cell y0 x0"><div class="deactive"></div><div class="lvl"></div></div><div id="mosaic_5_0_1" class="cell y0 x1"><div class="deactive"></div><div class="lvl"></div></div><div id="mosaic_5_0_2" class="cell y0 x2"><div class="deactive"></div><div class="lvl"></div></div><div id="mosaic_5_0_3" class="cell y0 x3"><div class="deactive"></div><div class="lvl"></div></div><div id="mosaic_5_0_4" class="cell y0 x4"><div class="deactive"></div><div class="lvl"></div></div><div id="mosaic_5_0_5" class="cell y0 x5"><div class="deactive"></div><div class="lvl"></div></div><div id="mosaic_5_0_6" class="cell y0 x6"><div class="deactive"></div><div class="lvl"></div></div><div id="mosaic_5_0_7" class="cell y0 x7"><div class="deactive"></div><div class="lvl"></div></div><div id="mysteryWindow" class="window"><h3>World Mysteries</h3><div id="mosaic_5_0_8" class="cell y0 x8"><div class="deactive"></div><div class="lvl"></div></div><div id="mosaic_5_0_9" class="cell y0 x9"><div class="deactive"></div><div class="lvl"></div></div><div id="mosaic_5_0_10" class="cell y0 x10"><div class="deactive"></div><div class="lvl"></div></div><div id="mosaic_5_0_11" class="cell y0 x11"><div class="deactive"></div><div class="lvl"></div></div><div id="mosaic_5_0_12" class="cell y0 x12"><div class="deactive"></div><div class="lvl"></div></div><div id="mosaic_5_0_13" class="cell y0 x13"><div class="deactive"></div><div class="lvl"></div></div><div id="mosaic_5_0_14" class="cell y0 x14"><div class="deactive"></div><div class="lvl"></div></div><div id="mosaic_5_0_15" class="cell y0 x15"><div class="deactive"></div><div class="lvl"></div></div><div id="mosaic_5_0_16" class="cell y0 x16"><div class="deactive"></div><div class="lvl"></div></div><div id="mosaic_5_0_17" class="cell y0 x17"><div class="deactive"></div><div class="lvl"></div></div><div id="mosaic_5_0_18" class="cell y0 x18"><div class="deactive"></div><div class="lvl"></div></div><div class="clear"></div></div><div id="mystery" class="panel">World Mystery<span id="unlock-mystery"></span></div></div>
+	<div id="mosaic_field_6" class="field_AOStats"><div id="stat-dmg-ico"></div><div id="stat-dmg" _name="Damage"></div><div id="stat-s-ico"></div><div id="stat-s" class="stats-face" _name="Strength"></div><input type="text" class="stats-body" name="s" value="0" _value="0"/><div id="stat-i-ico"></div><div id="stat-i" class="stats-face" _name="Intelligence"></div><input type="text" class="stats-body" name="i" value="0" _value="0"/><div id="rune" _name="Runes"></div><input type="text" name="r1" value="0" _value="0" _name=""/><input type="text" name="r2" value="0" _value="0" _name=""/><input type="text" name="r3" value="0" _value="0" _name=""/><div class="tears" value="1" _name="Muddy dragon tears"><div class="deactive"></div></div><div class="tears" value="2" _name="Transparent dragon tears"><div class="deactive"></div></div><div class="tears" value="3" _name="Net dragon tears"><div class="deactive"></div></div><div class="tears" value="4" _name="Glowing dragon tears"><div class="deactive"></div></div><div class="tears" value="5" _name="Shining dragon tears"><div class="deactive"></div></div><div class="tears" value="6" _name="Flaming dragon tears"><div class="deactive"></div></div><div id="_lvl" class="panel">Level&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span id="current_lvl" class="stats-face"></span><select id="lvl" class="stats-body"></select></div><div id="fairy" class="panel">Patronage&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span id="stat-f" class="stats-face"></span><select name="f" class="stats-body"><option value="5">Rank V</option><option value="4">Rank IV</option><option value="3">Rank III</option><option value="2">Rank II</option><option value="1">Rank I</option></select></div><div id="resources" class="panel">Talents & Rubies<span id="skills_count"></span> <span>/</span> <span id="rubins_count"></span></div></div>
+</div>
+<div id="saveBuild" class="form window">
+	<h3>Save</h3>
+	<label for="buildName">Name</label>
+	<input type="text" id="buildName" /><div class="hint">Optional</div>
+	<label for="buildUrl">Reference Name</label>
+	<input type="text" id="buildUrl" />
+	<div id="selfBuild">
+		Saved Builds
+        <ul class="builds"></ul>
+	</div>
+	<div class="small_button button">Save</div>
+</div>
+<div id="loadBuild" class="window">
+	<h3>Load</h3>
+	<ul class="builds">
+	</ul>
+</div>
+<div id="confirmSave" class="window">
+	<h3>Save build?</h3>
+	<div class="small_button">Yes</div>
+	<div class="small_button">No</div>
+</div>
+<div id="confirmLock" class="window">
+	<h3>Unlock?</h3>
+	<div class="small_button">Yes</div>
+	<div class="small_button">No</div>
+</div>
+<div id="about" class="window">
+	<h3>Creators</h3>
+	<p>Zurion</p>
+</div>
+<div id="faq" class="window">
+	<h3>Frequently Asked Questions</h3>
+	<a href="">How can I keep build?</a>
+	<p>
+		Click on the eye in the left corner of the screen.
+	</p>
+</div>
+<span itemprop="name">Talent Calculator Allods Online</span>
+<span itemprop="description">Talent Calculator for the game Allods Online on command ALive</span>
+</div>
+</div>
+<script type="text/javascript">
+    function createGrid(gridNumber, numberOfRows, numberOfColumns) {
+        var container = $("#mosaic_field_" + gridNumber);
+        for (var i = 0; i < numberOfRows; i++) {
+            for (var j = 0; j < numberOfColumns; j++) {
+                var element = $('<div></div>');
+                element.attr('id', 'mosaic_' + gridNumber + '_' + i + '_' + j);
+                element.addClass('cell').addClass('y' + i).addClass('x' + j);
+                element.append('<div class="deactive"></div>');
+                element.append('<div class="lvl"></div>');
+                element.appendTo(container);
+            }
+        }
+    }
+
+    createGrid(0, 9, 4);
+    createGrid(1, 9, 7);
+    createGrid(2, 9, 7);
+    createGrid(3, 9, 7);
+	
+	
+    al.calc.setField({"load": "calc", "preload": -1, "class": "AOTField", "y": 9, "x": 4, "z": 0});
+    al.calc.setField({"load": "calc", "preload": -1, "class": "AORField", "y": 9, "x": 7, "z": 1});
+    al.calc.setField({"load": "calc", "preload": -1, "class": "AORField", "y": 9, "x": 7, "z": 2});
+    al.calc.setField({"load": "calc", "preload": -1, "class": "AORField", "y": 9, "x": 7, "z": 3});
+
+    al.calc.setField({"load": "calc", "preload": -1, "class": "AOItem", "y": 1, "x": 2, "z": 4});
+    al.calc.setField({"load": "calc", "preload": 0, "class": "AOUnlocks", "y": 1, "x": 19, "z": 5});
+    al.calc.setField({"load": "calc", "preload": -1, "class": "AOStats", "y": 0, "x": 0, "z": 6});
+
+    al.calc.init({"data": ["class", "formuls"], "minLvl": 5, "maxLvl": 60, "startLvl": 60, "resource": {"skills": {"start": 4, "minLvl": 4, "specialLvl": {"multiple": 5, "bonus": 1}}, "rubins": {"minLvl": 10}}});
+</script>
+</body>
+</html>
